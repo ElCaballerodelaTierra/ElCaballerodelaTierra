@@ -1,7 +1,6 @@
 <p align="center">
-    <img src="/user-attachments/assets/de37fc9b-7b9b-4ae9-aecb-bb79b39d6364" alt="Day-on-Earth">
+![Day-on-Earth](https://github.com/user-attachments/assets/c378ec84-0535-4d6b-ae3f-5061f5a7d78b)
 </p>
-
 
 <!-- 
 
