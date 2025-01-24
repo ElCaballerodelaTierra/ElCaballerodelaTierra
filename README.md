@@ -1,4 +1,4 @@
-![Un día en la tierra](https://github.com/user-attachments/assets/ed69dca3-c282-480b-97d3-ca0c5fa56ca8)
+![Day-on-Earth](https://github.com/user-attachments/assets/32f344de-9808-49fa-a6c3-38b146f8744d)
 
 
 <!-- 
