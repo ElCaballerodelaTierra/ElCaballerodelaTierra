@@ -1,6 +1,5 @@
-<p align="center">
 ![Day-on-Earth](https://github.com/user-attachments/assets/c378ec84-0535-4d6b-ae3f-5061f5a7d78b)
-</p>
+
 
 <!-- 
 
