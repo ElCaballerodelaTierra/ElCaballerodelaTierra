@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/32f344de-9808-49fa-a6c3-38b146f8744d" alt="Day-on-Earth" width=200 style="border-radius: "50%;">
+    <img src="https://github.com/user-attachments/assets/32f344de-9808-49fa-a6c3-38b146f8744d" alt="Day-on-Earth" width=200>
 </p>
 
 
