@@ -1,4 +1,8 @@
-![Day-on-Earth1-ezgif com-resize](https://github.com/user-attachments/assets/d0763f60-9c92-4c94-ba6d-64192127b9e1)
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/d0763f60-9c92-4c94-ba6d-64192127b9e1" alt="Day-on-Earth">
+</div>
+
 
 <!-- 
 
