@@ -1,6 +1,6 @@
-<p align="center">    
-    ![ezgif com-resize](https://github.com/user-attachments/assets/f927ffd4-eddb-4927-9f76-02f35b394fc4)
-</p>
+
+![ezgif com-resize](https://github.com/user-attachments/assets/f927ffd4-eddb-4927-9f76-02f35b394fc4)
+
 
 
 <!-- 
