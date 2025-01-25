@@ -1,7 +1,5 @@
 
-![ezgif com-resize](https://github.com/user-attachments/assets/f927ffd4-eddb-4927-9f76-02f35b394fc4)
-
-
+![Day-on-Earth(1)](https://github.com/user-attachments/assets/00909f2d-fc03-4aab-803b-5a483db16769)
 
 <!-- 
 
