@@ -1,5 +1,5 @@
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/32f344de-9808-49fa-a6c3-38b146f8744d" alt="Day-on-Earth" width=200>
+<p align="center">    
+    ![ezgif com-resize](https://github.com/user-attachments/assets/f927ffd4-eddb-4927-9f76-02f35b394fc4)
 </p>
 
 
