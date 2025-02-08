@@ -1,8 +1,7 @@
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/d0763f60-9c92-4c94-ba6d-64192127b9e1" alt="Day-on-Earth">
+    <img src="https://github.com/user-attachments/assets/9fb9d395-2ff5-422e-aaed-82ba3bc50cdf" alt="Day-on-Earth">
 </div>
-
 
 <!-- 
 
