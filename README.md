@@ -3,6 +3,14 @@
     <img src="https://github.com/user-attachments/assets/9fb9d395-2ff5-422e-aaed-82ba3bc50cdf" alt="Day-on-Earth">
 </div>
 
+---
+
+<div align="center">
+   <p>
+   I firmly believe that most of the problems that afflict humanity are solvable with current technology, but due to our inefficient political and economic systems we are blinded to the search for simpler solutions.
+   </p>
+</div>
+
 <!-- 
 
 ## Hello 👋
