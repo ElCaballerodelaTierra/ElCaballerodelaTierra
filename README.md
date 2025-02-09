@@ -7,7 +7,8 @@
 
 <div align="center">
    <p>
-   I firmly believe that most of the problems that afflict humanity are solvable with current technology, but due to our inefficient political and economic systems we are blinded to the search for simpler solutions.
+   I firmly believe that most of the problems that afflict humanity are solvable with current technology, 
+but due to our inefficient political and economic systems we are blinded to the search for simpler solutions.
    </p>
 </div>
 
